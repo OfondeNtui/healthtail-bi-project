@@ -87,7 +87,7 @@
  * Identifies high-cost, high-frequency conditions like Cancer and Fleas.
  * Aids in strategic decisions on pricing, prevention, and procurement.
 
- ## **Recommendations:**
+  ## **Recommendations:**
 
  * Prioritize inventory and procurement for high-frequency diagnoses like Hypothyroidism and Arthritis.
  * Implement cost-control strategies for high-expense conditions such as Cancer and Fleas.
