@@ -30,9 +30,9 @@
 
   ## **Project Requirements:**
 
-  1.Cleaning the data & creating aggregated tables using SQL.
-  2.Answering research questions using SQL.
-  3.Creating interactive report in Looker Studio.
+ * Cleaning the data & creating aggregated tables using SQL.
+ * Answering research questions using SQL.
+ * Creating interactive report in Looker Studio.
 
   ## **ETL Plan:**
 
