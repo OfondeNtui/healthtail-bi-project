@@ -52,4 +52,14 @@
 
   ## **Dashboard:**
   
-   https://lookerstudio.google.com/reporting/4c6c0aa6-9a1c-4dfd-935f-617b6e84a238
+   [Looker Studio Link](https://lookerstudio.google.com/reporting/4c6c0aa6-9a1c-4dfd-935f-617b6e84a238)
+
+
+  ## **Insights:**
+
+  ## **1.Top Diagnoses by Record Count (Bar Chart)**
+  
+  * Highlights the most common medical conditions treated.
+  * Identifies high-demand services driving clinic workload.
+  * Useful for staffing, treatment planning, and inventory management.
+
