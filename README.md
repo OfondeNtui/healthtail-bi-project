@@ -1,6 +1,6 @@
 # Healthtail-BI-Project
 
-##Table of Contents
+## Table of Contents
 - [Project Overview](#project_overview)
 - [Objectives](#objectives)
 - [Tools & Technologies](#tools-and-technologies)
@@ -50,5 +50,6 @@
 
   * Validated data integrity through record counts, date range checks, and sample spot-checks.
 
-
+  ## **Dashboard:**
   
+   https://lookerstudio.google.com/reporting/4c6c0aa6-9a1c-4dfd-935f-617b6e84a238
